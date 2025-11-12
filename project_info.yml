@@ -1,0 +1,48 @@
+project:
+  name: "Bank Loan Portfolio Performance Analysis"
+  type: "Excel VBA Business Intelligence"
+  description: >
+    A comprehensive Excel-based loan performance dashboard automated with VBA,
+    providing real-time portfolio tracking and advanced segmentation analysis.
+
+tools:
+  main: "Microsoft Excel"
+  programming: "VBA (Visual Basic for Applications)"
+  techniques:
+    - "Automated metric calculation (MTD, MoM Growth)"
+    - "Dynamic chart generation via VBA"
+    - "Interactive navigation and filters"
+    - "Data modeling using PivotTables and Excel Data Model"
+
+data:
+  source: "Bank loan portfolio dataset (simulated)"
+  format: "CSV / Excel"
+  processed_with: "Excel VBA scripts"
+  analysis_focus:
+    - "Time-series trend analysis"
+    - "Geographic segmentation"
+    - "Loan purpose and demographic breakdown"
+
+dashboard_components:
+  - "Executive KPIs (Total Applications, Funded Amount, Approval Rate)"
+  - "Applications Trend Chart (Jan–Dec)"
+  - "Heat Map by State"
+  - "Loan Term and Purpose Segmentation"
+  - "Demographic Analysis: Employment Length & Home Ownership"
+
+insights:
+  - "Automated KPI and trend updates via VBA"
+  - "Identified application seasonality and geographic concentration"
+  - "Delivered a cost-effective BI solution without external tools"
+
+files:
+  - "README.md: Project overview"
+  - "dashboard/Bank_Loan_Performance_Analysis.xlsm: Excel file"
+  - "data/bank_loan_data_sample.csv: Sample dataset"
+  - "images/: Dashboard screenshots"
+  - "docs/: Detailed methodology and VBA documentation"
+
+author:
+  name: "Your Name"
+  email: "your.email@example.com"
+  linkedin: "https://linkedin.com/in/your-profile"
